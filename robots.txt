@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://emotion.megafon.ru/sitemap.xml
+Sitemap: http://emotion.fun/sitemap.xml
